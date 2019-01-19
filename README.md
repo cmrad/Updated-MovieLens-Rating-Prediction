@@ -1,2 +1,2 @@
 # Updated-MovieLens-Rating-Prediction
-Final Project for Harvard's Capstone Course
+Final Project for Harvard's Data Science Capstone Course
